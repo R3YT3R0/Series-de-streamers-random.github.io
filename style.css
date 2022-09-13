@@ -210,7 +210,8 @@ body{
         display:flex;
         margin-top: 20px;
         justify-content: center;
-
+        padding: 20px;
+        margin: auto;
 }
 .Contactame input{
         margin-right: 45px;
@@ -223,6 +224,9 @@ body{
         justify-self: center;
         text-align: center
 }
+
+
+
 .Discord h1{
         text-align:center; 
         color:rgb(88, 101, 242); 
@@ -245,7 +249,4 @@ body{
         color:rgb(254, 231, 92);
 }
 
-.twitter{
-        text-decoration: underline;
-}
 
